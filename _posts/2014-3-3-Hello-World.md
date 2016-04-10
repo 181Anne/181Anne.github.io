@@ -3,8 +3,4 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Autogramy sbírám už několik let. Netušila jsem, o čem mít webové stránky, a tak jsem si řekla, že to s tímhle zkusím. Mám i blog, ale tam přispívám, jen když mi dojde autogram, což není moc často. Sbírám autogramy především anglických a amerických herců/hereček, ale mám mezi nimi i nějaké výjimky. Jednou jsem si spočítala, že se mi vrací jen necelá třetina dopisů, což je docela smutné, ale i přesto mě to baví. :P
