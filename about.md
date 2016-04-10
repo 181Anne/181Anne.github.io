@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Anna, 20, žiju proto, abych jedla
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[už mám o autogramech blog](http://about-autographs.blog.cz/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Anikaf@seznam.cz](mailto:Anikaf@seznam.cz)
